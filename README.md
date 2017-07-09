@@ -1,5 +1,5 @@
-TAILOR:
-Tailor is a java library used to execute thread in a batch system. Programmer can keep adding threads to queue and call 'notifyExecutioner', this will batch the threads and will execute.
+TAILOR: v_1.0
+Tailor is a java library used to execute threads in a batch system. Programmer can keep adding threads to queue and call 'notifyExecutioner', this will batch the threads and will execute.
 
 Importing the Tailor Library.
 
